@@ -21,9 +21,7 @@ with geolocated points with a 2k meters buffer around each hospital.
 
 Since the project was made using QGIS files can't be uploaded. You can find the presentation at the 
 following link:
-https://drive.google.com/file/d/1Qlm4VtDZwAjLaPRXUiizXmmZjSEEft7T/view?usp=sharing
-
+* [sustainable cities](https://drive.google.com/file/d/1Qlm4VtDZwAjLaPRXUiizXmmZjSEEft7T/view?usp=sharing)
 
 ## Reach out!
-
-https://www.linkedin.com/in/cosme-urdaibay/
+* [LinkedIn](https://www.linkedin.com/in/cosme-urdaibay/)
