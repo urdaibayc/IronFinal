@@ -19,10 +19,10 @@ with geolocated points with a 2k meters buffer around each hospital.
 
 ## Notes
 
-Since the project was made using QGIS files can't be uploaded. You can find the presentation at the following link:
-  https://drive.google.com/file/d/1Qlm4VtDZwAjLaPRXUiizXmmZjSEEft7T/view?usp=sharing
+Since the project was made using QGIS files can't be uploaded. You can find the presentation at the 
+following link:
+https://drive.google.com/file/d/1Qlm4VtDZwAjLaPRXUiizXmmZjSEEft7T/view?usp=sharing
 
- name="links"></a>
 
 ## Reach out!
 
