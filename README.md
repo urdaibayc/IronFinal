@@ -19,9 +19,11 @@ with geolocated points with a 2k meters buffer around each hospital.
 
 ## Notes
 
-Since the project was made using QGIS files can't be uploaded. You can find the presentation at the 
-following link:
-* [sustainable cities](https://drive.google.com/file/d/1Qlm4VtDZwAjLaPRXUiizXmmZjSEEft7T/view?usp=sharing)
+Coudn't upload the files. You can find the presentation at the following link:
+* [PDF-Spanish](https://github.com/urdaibayc/IronFinal/blob/main/IronFinalPresentation.pdf)
+* Do visit the discussion:
+* [It helps me out!](https://github.com/urdaibayc/IronFinal/discussions/1)
+
 
 ## Reach out!
 * [LinkedIn](https://www.linkedin.com/in/cosme-urdaibay/)
