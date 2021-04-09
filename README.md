@@ -14,6 +14,4 @@ Since the project was made using QGIS files can't be uploaded. You can find the 
 
 ## Reach out!
 
-
-Cosme
 https://www.linkedin.com/in/cosme-urdaibay/
